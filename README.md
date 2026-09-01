@@ -6,4 +6,6 @@ This repository contains first island records for arthropods in Micronesia.
 |first_island_records.zip| compressed csv file |
 |first_island_records.db | data converted to a SQLite 3 database |
 
+Here`s an example SQL query to extract data from the SQLite database:
+
 ![](sql_example.png)
